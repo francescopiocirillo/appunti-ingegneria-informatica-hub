@@ -21,16 +21,15 @@ Questa repository funge da **hub centralizzato** per raccogliere e rendere acces
 🔗 [**software-engineering-appunti**](https://github.com/francescopiocirillo/software-engineering-appunti)
 
 ---
+# ℹ️ Info
 
-🧩 Obiettivo
--------------
+### 🧩 Obiettivo
 
 Mettere a disposizione uno spazio ordinato e accessibile a studenti, colleghi e recruiter per consultare i materiali sviluppati con cura, seguendo buone pratiche di documentazione, scrittura tecnica e organizzazione.
 
 > Questo progetto testimonia competenze in comunicazione tecnica, padronanza dei contenuti e condivisione della conoscenza.
 
-🌟 Dai, lascia una stellina!
-----------------------------
+### 🌟 Dai, lascia una stellina!
 
 Ciao! 👋  
 Questi appunti sono qui su GitHub, completamente **gratuiti**, per dare una mano a chi studia o è semplicemente curioso.
@@ -43,10 +42,10 @@ Se ti sono utili puoi supportare il progetto con un piccolo gesto:
 Una stellina non cambia il mondo, ma migliora la giornata di chi ha scritto tutto questo 😉  
 **Grazie!**
 
-## 📬 Contatti
+### 📬 Contatti
 Se hai domande o suggerimenti, apri un'**Issue** oppure scrivimi!
 
-## 📄 Licenza
+### 📄 Licenza
 
 Il contenuto di questa repository è distribuito con licenza  
 [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**](https://creativecommons.org/licenses/by-nc-sa/4.0/).
