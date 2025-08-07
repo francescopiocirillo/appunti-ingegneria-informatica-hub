@@ -9,19 +9,23 @@ Questa repository funge da **hub centralizzato** per raccogliere e rendere acces
 # 📘 Repository collegate
 
 ## 📊 Data Science e Statistica
-> Riassunti, formule e concetti chiave per l’analisi dei dati, regressione, classificazione e probabilità.
+Appunti strutturati e risorse su Data Science e Apprendimento Statistico, inclusi regressione, inferenza Bayesiana, classificazione e apprendimento non supervisionato.
 
 🔗 [**data-science-appunti**](https://github.com/francescopiocirillo/data-science-appunti)
 
 ---
 
 ## 🧱 Ingegneria del Software
-> UML, design pattern, testing, gestione del ciclo di vita del software e architetture.
+Concetti chiave di Ingegneria del Software con un focus su architettura, gestione dei progetti e design pattern, curati da lezioni accademiche e intuizioni pratiche.
 
 🔗 [**software-engineering-appunti**](https://github.com/francescopiocirillo/software-engineering-appunti)
 
 ---
 # ℹ️ Info
+
+### 📌 Note for English Speakers
+
+All materials are in **Italian**, as they are based on courses I attended at an **Italian university**. However, if you need help with this subject in **English**, feel free to reach out—I’d be happy to suggest some resources in English! 😊
 
 ### 🧩 Obiettivo
 
