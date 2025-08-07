@@ -4,27 +4,26 @@
 
 Questa repository funge da **hub centralizzato** per raccogliere e rendere accessibili i miei appunti universitari, realizzati durante il corso di laurea magistrale in Ingegneria Informatica presso l’Università degli Studi di Salerno. Tutto il materiale è open-source e liberamente consultabile.
 
-📚 **Aggiornato continuamente con nuove risorse.**
-
 ---
 
-## 📘 Repository collegate
+# 📘 Repository collegate
 
-### 📊 Data Science e Statistica
+## 📊 Data Science e Statistica
 > Riassunti, formule e concetti chiave per l’analisi dei dati, regressione, classificazione e probabilità.
 
 🔗 [**data-science-appunti**](https://github.com/francescopiocirillo/data-science-appunti)
 
 ---
 
-### 🧱 Ingegneria del Software
+## 🧱 Ingegneria del Software
 > UML, design pattern, testing, gestione del ciclo di vita del software e architetture.
 
 🔗 [**software-engineering-appunti**](https://github.com/francescopiocirillo/software-engineering-appunti)
 
 ---
 
-## 🧩 Obiettivo
+🧩 Obiettivo
+-------------
 
 Mettere a disposizione uno spazio ordinato e accessibile a studenti, colleghi e recruiter per consultare i materiali sviluppati con cura, seguendo buone pratiche di documentazione, scrittura tecnica e organizzazione.
 
